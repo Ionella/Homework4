@@ -1,6 +1,7 @@
 ﻿using System;
 
 namespace Homework4;
+
 class Calculator
 { public static void Implimemtare() 
     {
